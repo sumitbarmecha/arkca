@@ -1,0 +1,19 @@
+# ----------------------------------------
+# Tech details: Browser
+# Account: ga4 - artemon aerospace
+# Property: artemonaerospace
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20260101
+# End date: 20261101
+Browser,Active users,New users,Engaged sessions,Engagement rate,Engaged sessions per active user,Average engagement time per active user,Event count,Key events,Total revenue
+Chrome,958,955,917,0.6208530805687204,0.9572025052192067,74.4624217118998,12252,0,0
+Safari,95,94,67,0.5234375,0.7052631578947368,55.76842105263158,831,0,0
+Edge,76,76,96,0.6808510638297872,1.263157894736842,138.32894736842104,1271,0,0
+Safari (in-app),35,35,18,0.5,0.5142857142857142,15.885714285714286,211,0,0
+Firefox,19,19,28,0.7368421052631579,1.4736842105263157,104.26315789473684,379,0,0
+Opera,7,7,4,0.4444444444444444,0.5714285714285714,31,57,0,0
+Android Webview,4,4,2,0.5,0.5,27.75,29,0,0
+Samsung Internet,4,4,3,0.75,0.75,20.5,26,0,0
+Mozilla Compatible Agent,2,2,2,1,1,2,14,0,0

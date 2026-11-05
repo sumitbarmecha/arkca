@@ -1,0 +1,26 @@
+# ----------------------------------------
+# Landing page: Landing page
+# Account: ga4 - artemon aerospace
+# Property: artemonaerospace
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20260101
+# End date: 20261101
+Landing page,Sessions,Active users,New users,Average engagement time per session,Key events,Total revenue,Session key event rate
+/,1432,1082,1080,58.20530726256983,0,0,0
+(not set),153,90,0,0.7124183006535948,0,0,0
+/career,97,85,65,18.484536082474225,0,0,0
+/multi-barrel-pneumatic-launcher,36,7,6,2.9444444444444446,0,0,0
+/contact-us,25,18,10,29.32,0,0,0
+/our-inventory,21,15,10,52.04761904761905,0,0,0
+/teevra-mk-i,21,11,3,19.571428571428573,0,0,0
+/rudra-mk-i,16,12,5,95.5,0,0,0
+/ccav-kamikaze,15,12,6,19.933333333333334,0,0,0
+/single-tube-pneumatic-launcher,11,9,7,22,0,0,0
+/aaghat,9,7,0,12.333333333333334,0,0,0
+/umraats,6,4,1,50.666666666666664,0,0,0
+(not set),2,1,0,8.5,0,0,0
+/about,1,1,1,0,0,0,0
+/about-us,1,1,1,0,0,0,0
+/team,1,1,1,1,0,0,0

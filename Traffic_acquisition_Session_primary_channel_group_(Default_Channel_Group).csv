@@ -1,0 +1,17 @@
+# ----------------------------------------
+# Traffic acquisition: Session primary channel group (Default Channel Group)
+# Account: ga4 - artemon aerospace
+# Property: artemonaerospace
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20260101
+# End date: 20261101
+Session primary channel group (Default Channel Group),Sessions,Engaged sessions,Engagement rate,Average engagement time per session,Events per session,Event count,Key events,Session key event rate,Total revenue
+Organic Search,1145,780,0.6812227074235808,58.00349344978166,8.448908296943232,9674,0,0,0
+Direct,586,293,0.5,32.34470989761092,7.803754266211604,4573,0,0,0
+Organic Social,81,45,0.5555555555555556,34.08641975308642,6.567901234567901,532,0,0,0
+AI Assistant,13,11,0.8461538461538461,98.92307692307692,10.692307692307692,139,0,0,0
+Referral,11,7,0.6363636363636364,33.63636363636363,9.090909090909092,100,0,0,0
+Unassigned,10,1,0.1,30.6,4.7,47,0,0,0
+Organic Video,1,0,0,6,5,5,0,0,0

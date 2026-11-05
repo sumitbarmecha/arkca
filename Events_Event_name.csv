@@ -1,0 +1,18 @@
+# ----------------------------------------
+# Events: Event name
+# Account: ga4 - artemon aerospace
+# Property: artemonaerospace
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20260101
+# End date: 20261101
+Event name,Event count,Total users,Event count per active user,Total revenue
+page_view,3855,1197,3.2205513784461153,0
+artemon,3770,1150,3.2782608695652176,0
+user_engagement,2843,811,3.522924411400248,0
+session_start,1837,1195,1.5372384937238495,0
+scroll,1482,706,2.0991501416430594,0
+first_visit,1196,1194,1.001675041876047,0
+click,61,33,1.8484848484848484,0
+form_start,26,17,1.5294117647058822,0

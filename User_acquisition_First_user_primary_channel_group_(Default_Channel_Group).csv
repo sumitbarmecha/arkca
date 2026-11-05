@@ -1,0 +1,17 @@
+# ----------------------------------------
+# User acquisition: First user primary channel group (Default Channel Group)
+# Account: ga4 - artemon aerospace
+# Property: artemonaerospace
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20260101
+# End date: 20261101
+First user primary channel group (Default Channel Group),Total users,New users,Returning users,Average engagement time per active user,Engaged sessions per active user,Event count,Key events,User key event rate
+Organic Search,685,687,166,93.55474452554745,1.0963503649635036,9184,0,0
+Direct,435,429,75,50.45747126436782,0.7517241379310344,5174,0,0
+Organic Social,58,58,4,39.689655172413794,0.6724137931034483,451,0,0
+AI Assistant,12,12,0,107.16666666666667,0.9166666666666666,139,0,0
+Referral,8,8,2,46.25,0.875,100,0,0
+Unassigned,3,1,1,49.5,1,17,0,0
+Organic Video,1,1,0,6,0,5,0,0

@@ -1,0 +1,27 @@
+# ----------------------------------------
+# Pages and screens: Page path and screen class
+# Account: ga4 - artemon aerospace
+# Property: artemonaerospace
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20260101
+# End date: 20261101
+Page path and screen class,Views,Active users,Views per active user,Average engagement time per active user,Event count,Key events,Total revenue
+/,1790,1096,1.6332116788321167,45.925182481751825,8077,0,0
+/career/,505,335,1.507462686567164,35.28358208955224,1822,0,0
+/contact-us/,257,183,1.4043715846994536,31.562841530054644,931,0,0
+/teevra-mk-i/,219,139,1.5755395683453237,25.784172661870503,725,0,0
+/rudra-mk-i/,188,138,1.3623188405797102,20.731884057971016,635,0,0
+/our-inventory/,166,107,1.5514018691588785,35.8411214953271,548,0,0
+/single-tube-pneumatic-launcher/,149,120,1.2416666666666667,15.866666666666667,487,0,0
+/aaghat/,145,109,1.3302752293577982,24.807339449541285,464,0,0
+/multi-barrel-pneumatic-launcher/,145,99,1.4646464646464648,18.97979797979798,465,0,0
+/ccav-kamikaze/,129,109,1.18348623853211,28.174311926605505,428,0,0
+/umraats/,123,95,1.2947368421052632,24.473684210526315,400,0,0
+/uncategorized/hello-world/,12,12,1,0,24,0,0
+/about-us/,10,10,1,0.2,22,0,0
+/services/,8,8,1,0.125,17,0,0
+/sample-page/,7,7,1,0,14,0,0
+/about,1,1,1,0,5,0,0
+/team,1,1,1,1,6,0,0

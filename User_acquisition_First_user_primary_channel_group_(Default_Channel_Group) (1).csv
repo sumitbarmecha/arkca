@@ -1,0 +1,19 @@
+# ----------------------------------------
+# User acquisition: First user primary channel group (Default Channel Group)
+# Account: Arkca Corporate
+# Property: arkcacorporate.com
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20260101
+# End date: 20261101
+First user primary channel group (Default Channel Group),Total users,New users,Returning users,Average online active user engagement time,Engaged online sessions per active user,Event count,Key events,User key event rate
+Direct,6598,6545,349,19.89302537608266,0.3674213645342653,42099,602,0.05546269563896065
+Organic Search,3363,3351,606,82.19964296340375,0.8033323415650104,36597,708,0.15917881582862242
+Organic Social,275,274,2,7.167272727272727,0.6945454545454546,1524,26,0.08363636363636363
+Referral,138,137,15,71,0.8686131386861314,2230,32,0.08029197080291971
+Paid Search,45,42,6,39.5,0.45454545454545453,242,1,0.022727272727272728
+AI Assistant,16,16,2,56.625,0.9375,143,5,0.25
+Paid Video,8,8,1,44.625,0.25,51,0,0
+Display,2,0,1,0,1,11,0,0
+Unassigned,2,2,0,0,0,9,0,0
