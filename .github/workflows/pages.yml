@@ -34,6 +34,9 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out
+          # The action's default is 1 day. A later "re-run failed jobs" then
+          # finds no artifact, because the successful build is not repeated.
+          retention-days: 7
 
   deploy:
     needs: build
